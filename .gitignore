@@ -1,0 +1,4 @@
+# Ignorer les dossierrs all et data _pycache_/
+all/
+data/
+__pycache__/
